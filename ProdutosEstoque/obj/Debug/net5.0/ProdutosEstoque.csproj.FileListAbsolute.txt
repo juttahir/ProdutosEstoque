@@ -1,0 +1,16 @@
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.exe
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.deps.json
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.runtimeconfig.json
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.runtimeconfig.dev.json
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.dll
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ref\ProdutosEstoque.dll
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\bin\Debug\net5.0\ProdutosEstoque.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.csproj.AssemblyReference.cache
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.AssemblyInfoInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.AssemblyInfo.cs
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.dll
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ref\ProdutosEstoque.dll
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ProdutosEstoque\ProdutosEstoque\obj\Debug\net5.0\ProdutosEstoque.genruntimeconfig.cache
